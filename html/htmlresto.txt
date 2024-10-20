@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../2-css/all.min.css">
+<link rel="icon " href="../resto.png" type="image/x-icon">
+
+    <title>tropico restaurant </title>
+    <style>
+        #icone{
+            font-size: xx-large;
+         margin: 40px 0 0 0 ;
+        }
+        img{
+            width: 130px;
+           
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <i class="fa-solid fa-utensils" id="icone"> 
+            tropico restaurant menu : </i>
+
+       
+    </header>
+    <main>
+        <section>
+            <h2>Appetizers : </h2>
+            <ul>
+            <li><dl><b>Briouats</b></dl>
+                <img src="../téléchargement.jfif" alt="Briouats">
+            <dd>Crispy, deep-fried pastry triangles
+                 filled with a spiced mixture of minced 
+                 meat (usually lamb or chicken), onions,
+                  and sometimes almonds.</dd>
+                
+                </li>
+            <li><dl><b>Chakchouka</b></dl>
+                <img src="../téléchargement (6).jfif" alt="Chakchouka">
+            <dd> A savory dish of poached eggs in a sauce
+                 of tomatoes, peppers, onions, and spices. Often served with crusty bread..</dd></li>
+
+            <li><dl><b>Mhadjeb</b></dl>
+                <img src="../téléchargement (2).jfif" alt="Mhadjeb">
+                   <dd>Flatbread stuffed with a spicy 
+                    mix of tomatoes, onions, and green peppers, then folded and cooked on a griddle.</dd></li>
+        </section>
+
+        <section>
+            <h2>Main Courses
+                : </h2>
+            <ul>
+            <li><dl><b>Couscous</b></dl>
+                <img src="../téléchargement (3).jfif" alt="Couscous">
+            <dd> A traditional
+                 North African dish of steamed semolina wheat, often served with a stew of meat (lamb or chicken), vegetables, and chickpeas</dd>
+                
+                </li>
+            <li><dl><b>Tajine</b></dl>
+                <img src="../téléchargement (1).jfif" alt="Tajine">
+            <dd> A slow-cooked stew made with various
+                 ingredients such as lamb, chicken, or beef, combined with fruits like apricots or prunes, and spices like saffron and cinnamon.</dd></li>
+
+            <li><dl><b>Mechoui</b></dl>
+                <figure><img alt="Mechoui" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn3QGe9-BboLS1__NgA0Za8VxmZrlGfUGRrA&s">
+                    <dd>A whole lamb,
+                     marinated with spices and roasted until tender and crispy. It's often served at large gatherings and special occasions.</dd></li>
+        </section>
+
+        <section>
+            <h2>Desserts
+                : </h2>
+            <ul>
+            <li><dl><b>makroute</b></dl>
+                <img src="../téléchargement (4).jfif" alt="makroute">
+            <dd>  Semolina-based pastries filled with dates or nuts, shaped into diamonds or rectangles, and fried until crispy. They are then soaked in honey or syrup.
+            </dd>
+                
+                </li>
+            <li><dl><b>Kalb el Louz</b></dl>
+                <img src="../téléchargement (5).jfif" alt="Kalb el Louz">
+            <dd>   A traditional Algerian almond cake made from semolina, almonds, and flavored with orange blossom water, then baked and cut into diamond-shaped pieces.
+              
+                </dd></li>
+
+            <li><dl><b>  Zgougou (or Zgougou Zehya)</b>Zgougou (or Zgougou Zehya)</dl>
+                <img src="../téléchargement (7).jfif" alt="">
+                 <dd>A dessert made from roasted pine nuts mixed with a sweet, thick syrup made </dd>  </li>
+        </section>
+
+
+    </main>
+    <footer>
+        <a href="contact.com"><button style="background-color: brown;font-size: xx-large ;border-radius: 30px; width: 300px;height: 100px; margin: 50px; cursor: pointer; ">contact us </button></a>
+    </footer>
+    </body>
+</html>
