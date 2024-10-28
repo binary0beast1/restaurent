@@ -11,9 +11,13 @@ nav + a {
   --bs-icon-link-transform: translate3d(0, -0.125rem, 0);
 }
 .hero-section {
-  background-image: url(../tro.jfif);
+  background-image: url(iamhere.jfif);
   height: 80vh;
   background-size: cover;
+}
+.hero-section p:hover,
+.hero-section h1:hover {
+  color: aliceblue;
 }
 .hero-section div {
   background-image: url(../cupcake-plate-surrounded-by-fruits.jpg);
